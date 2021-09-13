@@ -1,0 +1,2 @@
+# coincheck
+Coincheck API Library
